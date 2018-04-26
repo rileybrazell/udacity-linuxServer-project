@@ -1,6 +1,6 @@
 # udacity-linuxServer-project
 Final project for linux server configuration section
-1. IP Address: 54.189.253.183 | SSH port: 2200
+1. IP Address: 54.189.253.183 | SSH port: 2200 | user: grader | pass: secret
 2. URL of project: http://ec2-54-189-253-183.us-west-2.compute.amazonaws.com
 3. A summary of software you installed and configuration changes made.
 * For project setup:
